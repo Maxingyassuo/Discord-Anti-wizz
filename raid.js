@@ -261,5 +261,8 @@ client.on("guildMemberRemove", async member => {
           
         }
         })
+
+
+
     
         
